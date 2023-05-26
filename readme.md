@@ -28,7 +28,7 @@ SSH git clone git@github.com:USER/bikcraft-mini.git
 
 ## ⭐ **Contribuição:**
 
-Se você quiser contribuir para o EncurtaLink, fique a disposição. Caso veja algum problema, não deixe de reportar.
+Se você quiser contribuir para o Bikcraft mini, fique a disposição. Caso veja algum problema, não deixe de reportar.
 
 ## 👮🏻‍♀️ **Licença:**
 Projeto open source feito por André Rafael, professor da Origamid.
