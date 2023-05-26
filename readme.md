@@ -2,6 +2,8 @@
 
 Bikcraft mini é um projeto criado do curso iniciante em HTML e CSS do curso Origamid. A criação deste projeto visa a absorção de todo aprendizado obtido por meio das aulas.
 
+![alt text](/img/site.png)
+
 ## 🖥️ **Tecnologias utilizadas:**
 
 <p>O Bikcraft mini foi construído usando as seguintes tecnologias:</p>
