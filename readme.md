@@ -15,7 +15,7 @@ Bikcraft mini é um projeto criado do curso iniciante em HTML e CSS do curso Ori
 
 Para instalar o EncurtaLink, siga estes passos:
 
-1. Clone o repositório do EncurtaLink em sua máquina local:
+1. Clone o repositório do Bikcraft mini em sua máquina local:
 
 ```bash
 (https) git clone https://github.com/USER/bikcraft-mini.git
